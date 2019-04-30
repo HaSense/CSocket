@@ -6,6 +6,7 @@
 #include<sys/socket.h>
 
 void error_handling(char *message);
+
 int main(int argc, char const *argv[])
 {
     int sock;
